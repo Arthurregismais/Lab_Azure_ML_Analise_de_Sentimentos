@@ -13,7 +13,10 @@ Após isso, vamos escolher a funcionalidade <strong> Analyze sentiment and mine 
 
 Na tela seguinte, vamos utilizar alguns dos textos de exemplo oferecidos pela Azure. Obs: Se estiver em posse de uma conta da Azure usando um e-mail corporativo ou de estudante, poderá ser capaz de escrever e analisar seus próprios textos. Siga as instruções contidas dentro do link: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html
 
-Pode selecionar qualquer um dos textos, no caso para o laboratório, selecionaremos o texto 1, que se trata de uma análise de um produto comprado por uma cliente. Seguindo, clique em <strong> Run </strong> 
+Pode selecionar qualquer um dos textos, no caso para o laboratório, selecionaremos a primeira opção, que se trata de uma análise de um produto comprado por uma cliente. Seguindo, clique em <strong> Run: </strong> 
+
+
+
 <img width="557" alt="image" src="https://github.com/user-attachments/assets/57ec66d0-9c92-4338-b95f-4e691f73513e" />
 
 Feito isso, observaremos a tela de resultados:
